@@ -1,0 +1,14 @@
+{
+  "name": "menurolebot",
+  "version": "1.0.0",
+  "description": "Advanced menu role bot with discord.js v13 version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shynox",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.0.0-dev.t1628165339.3eb4140"
+  }
+}
